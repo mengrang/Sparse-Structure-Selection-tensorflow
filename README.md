@@ -1,4 +1,4 @@
-# Data-Driven-Sparse-Structure-Selection-tensorflow
+# Sparse-Structure-Selection-tensorflow *(Update In Progress)*
 
 **Implementation of Tusample Naiyan Wang's paper [Data-Driven Sparse Structure Selection for Deep Neural Networks](https://arxiv.org/abs/1707.01213) on Fine-grained Recognition in Tensorflow.**
 
